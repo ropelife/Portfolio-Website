@@ -3,6 +3,6 @@ An online application to display your Resume/CV which includes your portfolio, p
 
 ![home1](1.png)
 
-![home2](1.png)
+![home2](2.png)
 
-![home3](1.png)
+![home3](3.png)
